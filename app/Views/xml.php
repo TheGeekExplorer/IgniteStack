@@ -1,0 +1,1 @@
+<!-- XML --><?php echo $_STATE['xml']; ?>
