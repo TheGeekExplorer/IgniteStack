@@ -13,7 +13,6 @@ class EmailConfiguration extends BaseConfiguration {
     public static $default_template = 'Emails/StandardResponse';
 
     public static $nominated_recipients = [
-        'mark.greenall@booker.co.uk',
-        'tom.allen@booker.co.uk',
+        '',
     ];
 }
